@@ -19,13 +19,13 @@ I'm an Iranian developer transitioning into a **Bug Bounty Hunter**. Passionate 
 - Ethical Hacking
 
 ## 📫 Connect with Me
-- Email: [xmrdoctor.core@gmail.com]
-- Twitter/X: [https://twitter.com/Mr_Dyako/https://x.com/Mr_Dyako]
-- Telegram: [https://t.me/Null_Net]
-- Website: [https://xmrdoctor.ir]
+- Email: xmrdoctor.core@gmail.com
+- Twitter/X: https://twitter.com/Mr_Dyako/https://x.com/Mr_Dyako
+- Telegram: https://t.me/Null_Net
+- Website: https://xmrdoctor.ir
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[xMrDoctor]&show_icons=true&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xMrDoctor&show_icons=true&theme=light)
 
 ---
 
